@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(![Você sabe o que a análise de dados pode fazer pela sua empresa](https://user-images.githubusercontent.com/65680660/166236740-7ccad2b9-68ea-4649-bb45-a287cbf5038b.png)
+![Você sabe o que a análise de dados pode fazer pela sua empresa](https://user-images.githubusercontent.com/65680660/166236740-7ccad2b9-68ea-4649-bb45-a287cbf5038b.png)
 
 Get you started:
 
